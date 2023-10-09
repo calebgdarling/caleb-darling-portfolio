@@ -1,8 +1,11 @@
+import Contact from "./components/Contact";
+import Home from "./components/Home";
 
 function App() {
   return (
     <div>
-      <h1>Welcome to Caleb's React App!</h1>
+      <Home />
+      <Contact />
     </div>
   );
 }
