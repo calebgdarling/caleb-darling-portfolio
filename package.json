@@ -1,0 +1,16 @@
+{
+  "name": "caleb-darling-portfolio",
+  "version": "1.0.0",
+  "description": "This repository houses the code for my personal website, serving as a digital resume and project showcase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
