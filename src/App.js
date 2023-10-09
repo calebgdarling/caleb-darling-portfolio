@@ -1,7 +1,8 @@
-const App = () => {
+
+function App() {
   return (
     <div>
-      <h1>This is the App Component!</h1>
+      <h1>Welcome to Caleb's React App!</h1>
     </div>
   );
 }
