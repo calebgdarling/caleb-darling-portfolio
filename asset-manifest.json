@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/caleb-darling-portfolio/static/js/main.f37b7649.js",
+    "main.css": "/caleb-darling-portfolio/static/css/main.cee39c16.css",
+    "main.js": "/caleb-darling-portfolio/static/js/main.31e06081.js",
+    "static/media/profile-picture.png": "/caleb-darling-portfolio/static/media/profile-picture.00ca37a36ccebc609d22.png",
     "index.html": "/caleb-darling-portfolio/index.html",
-    "main.f37b7649.js.map": "/caleb-darling-portfolio/static/js/main.f37b7649.js.map"
+    "main.cee39c16.css.map": "/caleb-darling-portfolio/static/css/main.cee39c16.css.map",
+    "main.31e06081.js.map": "/caleb-darling-portfolio/static/js/main.31e06081.js.map"
   },
   "entrypoints": [
-    "static/js/main.f37b7649.js"
+    "static/css/main.cee39c16.css",
+    "static/js/main.31e06081.js"
   ]
 }
