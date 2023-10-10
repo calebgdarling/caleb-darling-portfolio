@@ -1,37 +1,57 @@
 /* Skills.css */
 
 .skills-section {
-  background-color: #f7f7f7; /* Light gray background */
-  padding: 40px 0;
+  background-color: #f5f5f5;
+  padding: 50px 0;
+  text-align: center;
 }
 
 .skills-container {
   max-width: 800px;
   margin: 0 auto;
-  text-align: center;
+}
+
+h2 {
+  font-size: 28px;
+  margin-bottom: 30px;
+  color: #556B2F;
 }
 
 .skills-list {
-  list-style-type: none;
+  list-style: none;
   padding: 0;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
 }
 
-.skills-list li {
-  background-color: #556B2F; /* Olive Green Background Color */
-  color: #fff; /* Text Color */
-  padding: 10px 20px;
+.skill-item {
+  display: flex;
+  align-items: center;
   margin: 10px;
-  border-radius: 5px;
-  font-weight: bold;
-  font-size: 18px;
-  transition: background-color 0.3s, transform 0.2s;
+  padding: 10px 20px;
+  background-color: #556B2F;
+  color: #fff;
+  border-radius: 25px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.skill-icon {
+  width: 40px; /* Adjust the icon width as needed */
+  height: 40px; /* Adjust the icon height as needed */
+  margin-right: 10px;
+}
+
+/* Hover effect for skills */
+.skill-item:hover {
+  background-color: #36441e;
   cursor: pointer;
 }
 
-.skills-list li:hover {
-  background-color: #FFA500; /* Change color on hover (e.g., orange) */
-  transform: scale(1.05); /* Scale up on hover */
+/* Responsive design (adjust as needed) */
+@media (max-width: 768px) {
+  .skill-item {
+    margin: 10px 0;
+  }
 }
