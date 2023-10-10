@@ -24,6 +24,11 @@
   transition: color 0.3s;
 }
 
+/* Style for active link */
+.navbar a.active {
+  color: #FFA500; /* Change color for the active link (e.g., orange) */
+}
+
 .navbar a:hover {
   color: #FFA500; /* Change color on hover (e.g., orange) */
 }
