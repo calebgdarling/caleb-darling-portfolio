@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/caleb-darling-portfolio/static/css/main.cee39c16.css",
-    "main.js": "/caleb-darling-portfolio/static/js/main.31e06081.js",
-    "static/media/profile-picture.png": "/caleb-darling-portfolio/static/media/profile-picture.00ca37a36ccebc609d22.png",
+    "main.css": "/caleb-darling-portfolio/static/css/main.8bf2228c.css",
+    "main.js": "/caleb-darling-portfolio/static/js/main.16dd741c.js",
+    "static/media/hungry-wolf-logo.png": "/caleb-darling-portfolio/static/media/hungry-wolf-logo.143cbc3334fc7f0b9e55.png",
     "index.html": "/caleb-darling-portfolio/index.html",
-    "main.cee39c16.css.map": "/caleb-darling-portfolio/static/css/main.cee39c16.css.map",
-    "main.31e06081.js.map": "/caleb-darling-portfolio/static/js/main.31e06081.js.map"
+    "main.8bf2228c.css.map": "/caleb-darling-portfolio/static/css/main.8bf2228c.css.map",
+    "main.16dd741c.js.map": "/caleb-darling-portfolio/static/js/main.16dd741c.js.map"
   },
   "entrypoints": [
-    "static/css/main.cee39c16.css",
-    "static/js/main.31e06081.js"
+    "static/css/main.8bf2228c.css",
+    "static/js/main.16dd741c.js"
   ]
 }
