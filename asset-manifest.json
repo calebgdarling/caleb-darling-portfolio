@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/caleb-darling-portfolio/static/css/main.529740f7.css",
-    "main.js": "/caleb-darling-portfolio/static/js/main.a633e43c.js",
+    "main.css": "/caleb-darling-portfolio/static/css/main.29d5dd96.css",
+    "main.js": "/caleb-darling-portfolio/static/js/main.34ded2f4.js",
     "static/media/gray-topo.png": "/caleb-darling-portfolio/static/media/gray-topo.d8820dbcf2d2493aac44.png",
+    "static/media/portfolio-screenshot.png": "/caleb-darling-portfolio/static/media/portfolio-screenshot.26d221b664dbfb71690a.png",
     "static/media/nodejs-icon.png": "/caleb-darling-portfolio/static/media/nodejs-icon.14cdee7fa498e8a7c7d3.png",
     "static/media/profile-picture.png": "/caleb-darling-portfolio/static/media/profile-picture.00ca37a36ccebc609d22.png",
+    "static/media/task-mgmt-app.png": "/caleb-darling-portfolio/static/media/task-mgmt-app.b6b1dbaf6b515d2d20d3.png",
+    "static/media/project-screenshot1.png": "/caleb-darling-portfolio/static/media/project-screenshot1.9bcb821c04f5c1567fe5.png",
     "static/media/polaris-logo.png": "/caleb-darling-portfolio/static/media/polaris-logo.bb221410793e579b24a6.png",
     "static/media/html-css-icon.png": "/caleb-darling-portfolio/static/media/html-css-icon.a92a549a591f4acb527a.png",
     "static/media/codecademy-logo.png": "/caleb-darling-portfolio/static/media/codecademy-logo.d59958cefdfbfe7ab76c.png",
     "static/media/javascript-icon.png": "/caleb-darling-portfolio/static/media/javascript-icon.3dfb665e058d08c99f28.png",
     "static/media/unw-logo.png": "/caleb-darling-portfolio/static/media/unw-logo.25e48e0925d37dcf1e6b.png",
     "index.html": "/caleb-darling-portfolio/index.html",
-    "main.529740f7.css.map": "/caleb-darling-portfolio/static/css/main.529740f7.css.map",
-    "main.a633e43c.js.map": "/caleb-darling-portfolio/static/js/main.a633e43c.js.map"
+    "main.29d5dd96.css.map": "/caleb-darling-portfolio/static/css/main.29d5dd96.css.map",
+    "main.34ded2f4.js.map": "/caleb-darling-portfolio/static/js/main.34ded2f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.529740f7.css",
-    "static/js/main.a633e43c.js"
+    "static/css/main.29d5dd96.css",
+    "static/js/main.34ded2f4.js"
   ]
 }
