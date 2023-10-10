@@ -1,18 +1,17 @@
 import React from 'react';
-import Home from './components/home/Home';
-import Navbar from './components/navbar/Navbar';
-import Footer from './components/footer/Footer';
-import ContactInfo from './components/sections/contact-info/ContactInfo';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import Home from './components/pages/home-page/Home';
+import SkillsPage from './components/pages/skills-page/SkillsPage';
 
 function App() {
   return (
-    <div className="App">
-      <Navbar />
-      <Home />
-      <ContactInfo />
-      <Footer />
-    </div>
+    <Router>
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route path="/skills" component={SkillsPage} />
+      </Switch>
+    </Router>
   );
-};
+}
 
 export default App;
