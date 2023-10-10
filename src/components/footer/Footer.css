@@ -1,26 +1,40 @@
-/* Footer.css */
-
 .footer {
   background-color: #556B2F; /* Dark Green Background Color */
   color: #fff; /* Text Color */
-  padding: 10px 0; /* Reduced padding for a smaller footer */
+  padding: 10px 80px;
   text-align: center;
-}
-
-.footer-content {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  box-sizing: border-box;
+  justify-content: space-between; /* Adjusts alignment */
+  align-items: center; /* Centers vertically */
+  width: 100%; /* Set width to 100% for full-width background */
 }
 
-.footer-logo-img {
-  max-width: 100%; /* Ensure the logo does not exceed the width of its container */
-  max-height: 80px; /* Set a maximum height for the logo */
+.footer-links ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  gap: 20px; /* Add spacing between links */
+  margin: 0; /* Remove default margin */
+}
+
+/* .footer-links li {
+  margin-right: 20px;
+} */
+
+.footer-links a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+  transition: color 0.3s;
+}
+
+.footer-links a:hover {
+  color: #FFA500; /* Change color to orange on hover */
 }
 
 .footer-info {
-  margin-top: 10px;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .footer-info p {

@@ -9,6 +9,7 @@ function Skills() {
     'Node.js',
     'HTML/CSS',
     'REST APIs',
+    'SQL',
     'Git'
   ];
 

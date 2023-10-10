@@ -7,14 +7,30 @@
     padding: 40px 0;
   }
   
+  .header-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; /* Adds spacing between the image and text */
+  }
+  
+  .profile-image {
+    width: 150px; /* Adjust the width of the profile image as needed */
+    height: 150px; /* Adjust the height of the profile image as needed */
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover; /* Maintains aspect ratio and covers the container */
+  }
+  
   .header h1 {
-    font-size: 36px; /* Larger font size for the name */
-    margin-bottom: 10px; /* Reduced margin at the bottom of the name */
+    font-size: 34px; /* Font size for the name */
+    margin: 0; /* Remove margin to align with the image */
   }
   
   .header p {
-    font-size: 20px; /* Font size for the job title */
-    font-weight: bold; /* Bold job title */
-    margin-top: 0; /* Remove default top margin for the job title */
+    font-size: 18px;
+    text-align: center; /* Center-align the paragraph element */
+    margin: 0; /* Remove margin to align with the image */
   }
+  
+  /* Add any additional styling as needed */
   

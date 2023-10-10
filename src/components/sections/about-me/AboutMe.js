@@ -1,18 +1,21 @@
-import React from 'react';
-import './AboutMe.css'; // Import your CSS file
+import React from "react";
+import "./AboutMe.css"; // Import your CSS file
 
 function AboutMe() {
   return (
     <section className="about-me-section">
       <div className="about-me-container">
         <h2>About Me</h2>
-        <p>
-          Hi, I'm Caleb Darling, an aspiring software developer based out of the Twin Cities. I enjoy working on both front-end and back-end development, and I'm
-          always eager to learn and explore new tools and frameworks to enhance
-          my skills.
+        <p className="about-me-paragraph">
+          Hey there, I'm Caleb Darling, a passionate software developer hailing
+          from the Twin Cities. My expertise spans both front-end and back-end
+          development, and I thrive on continually learning and exploring the
+          latest tools and frameworks to refine my skills.
         </p>
-        <p>
-          In my free time you can catch me walking my Australian Shepherd Banjo or improving my Tennis serve! Feel free to reach out; my contact info is listed below.
+        <p className="about-me-paragraph">
+          Outside of coding, you'll often find me strolling with my trusty
+          Australian Shepherd, Banjo, or honing my tennis skills. Don't hesitate
+          to reach out; my contact information is just a scroll away!
         </p>
       </div>
     </section>
