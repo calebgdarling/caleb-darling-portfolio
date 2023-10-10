@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/caleb-darling-portfolio/static/css/main.316a54a2.css",
-    "main.js": "/caleb-darling-portfolio/static/js/main.3dfad2c1.js",
+    "main.css": "/caleb-darling-portfolio/static/css/main.529740f7.css",
+    "main.js": "/caleb-darling-portfolio/static/js/main.a633e43c.js",
     "static/media/gray-topo.png": "/caleb-darling-portfolio/static/media/gray-topo.d8820dbcf2d2493aac44.png",
     "static/media/nodejs-icon.png": "/caleb-darling-portfolio/static/media/nodejs-icon.14cdee7fa498e8a7c7d3.png",
     "static/media/profile-picture.png": "/caleb-darling-portfolio/static/media/profile-picture.00ca37a36ccebc609d22.png",
@@ -11,11 +11,11 @@
     "static/media/javascript-icon.png": "/caleb-darling-portfolio/static/media/javascript-icon.3dfb665e058d08c99f28.png",
     "static/media/unw-logo.png": "/caleb-darling-portfolio/static/media/unw-logo.25e48e0925d37dcf1e6b.png",
     "index.html": "/caleb-darling-portfolio/index.html",
-    "main.316a54a2.css.map": "/caleb-darling-portfolio/static/css/main.316a54a2.css.map",
-    "main.3dfad2c1.js.map": "/caleb-darling-portfolio/static/js/main.3dfad2c1.js.map"
+    "main.529740f7.css.map": "/caleb-darling-portfolio/static/css/main.529740f7.css.map",
+    "main.a633e43c.js.map": "/caleb-darling-portfolio/static/js/main.a633e43c.js.map"
   },
   "entrypoints": [
-    "static/css/main.316a54a2.css",
-    "static/js/main.3dfad2c1.js"
+    "static/css/main.529740f7.css",
+    "static/js/main.a633e43c.js"
   ]
 }
