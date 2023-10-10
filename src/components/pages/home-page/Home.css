@@ -1,8 +1,7 @@
 /* Reset some default styles */
 body, h1, h2, h3, p {
-  margin: 0;
+  margin: 0px 0px 50px 0px;
   padding: 0;
-  /* text-shadow: 1px 1px 3px black; */
 }
 
 /* Set a background image */
