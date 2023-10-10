@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/caleb-darling-portfolio/static/css/main.0198c03e.css",
-    "main.js": "/caleb-darling-portfolio/static/js/main.19adeaf3.js",
+    "main.css": "/caleb-darling-portfolio/static/css/main.316a54a2.css",
+    "main.js": "/caleb-darling-portfolio/static/js/main.3dfad2c1.js",
     "static/media/gray-topo.png": "/caleb-darling-portfolio/static/media/gray-topo.d8820dbcf2d2493aac44.png",
+    "static/media/nodejs-icon.png": "/caleb-darling-portfolio/static/media/nodejs-icon.14cdee7fa498e8a7c7d3.png",
     "static/media/profile-picture.png": "/caleb-darling-portfolio/static/media/profile-picture.00ca37a36ccebc609d22.png",
+    "static/media/polaris-logo.png": "/caleb-darling-portfolio/static/media/polaris-logo.bb221410793e579b24a6.png",
+    "static/media/html-css-icon.png": "/caleb-darling-portfolio/static/media/html-css-icon.a92a549a591f4acb527a.png",
+    "static/media/codecademy-logo.png": "/caleb-darling-portfolio/static/media/codecademy-logo.d59958cefdfbfe7ab76c.png",
+    "static/media/javascript-icon.png": "/caleb-darling-portfolio/static/media/javascript-icon.3dfb665e058d08c99f28.png",
+    "static/media/unw-logo.png": "/caleb-darling-portfolio/static/media/unw-logo.25e48e0925d37dcf1e6b.png",
     "index.html": "/caleb-darling-portfolio/index.html",
-    "main.0198c03e.css.map": "/caleb-darling-portfolio/static/css/main.0198c03e.css.map",
-    "main.19adeaf3.js.map": "/caleb-darling-portfolio/static/js/main.19adeaf3.js.map"
+    "main.316a54a2.css.map": "/caleb-darling-portfolio/static/css/main.316a54a2.css.map",
+    "main.3dfad2c1.js.map": "/caleb-darling-portfolio/static/js/main.3dfad2c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.0198c03e.css",
-    "static/js/main.19adeaf3.js"
+    "static/css/main.316a54a2.css",
+    "static/js/main.3dfad2c1.js"
   ]
 }
