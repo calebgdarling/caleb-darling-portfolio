@@ -4,6 +4,8 @@
     background-color: #556B2F; /* Dark Green Background Color */
     color: #fff; /* Text Color */
     text-align: center;
+    border-style: solid;
+    border-color: #ffa500;
     padding: 40px 0;
   }
   
@@ -24,6 +26,7 @@
   .header h1 {
     font-size: 34px; /* Font size for the name */
     margin: 0; /* Remove margin to align with the image */
+    color: #ffa500;
   }
   
   .header p {
@@ -31,6 +34,3 @@
     text-align: center; /* Center-align the paragraph element */
     margin: 0; /* Remove margin to align with the image */
   }
-  
-  /* Add any additional styling as needed */
-  

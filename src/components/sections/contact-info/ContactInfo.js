@@ -7,15 +7,15 @@ function ContactInfo() {
       <div className="contact-info-container">
         <h2>Contact Information</h2>
         <div className="info">
-          <p>
+          <div className="info-item">
             <strong>Email:</strong> calebgdarling@gmail.com
-          </p>
-          <p>
+          </div>
+          <div className="info-item">
             <strong>Phone:</strong> +1 (763) 568-5101
-          </p>
-          <p>
+          </div>
+          <div className="info-item">
             <strong>Address:</strong> 7104 Brockton Lane, Maple Grove, Minnesota
-          </p>
+          </div>
         </div>
       </div>
     </section>
