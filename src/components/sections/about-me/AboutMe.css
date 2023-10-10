@@ -1,6 +1,6 @@
 .about-me-section {
-  background-color: #333; /* Dark Gray Background Color */
-  color: #fff; /* Text Color */
+  background-color: #ffffff;
+  color: #000000;
   padding: 40px 0;
   border-style: solid;
   border-color: #ffa500;
@@ -13,22 +13,40 @@
   text-align: center;
 }
 
+.about-me-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end; /* Push the dog image to the right */
+  align-items: center;
+}
+
 h2 {
-  font-size: 24px; /* Larger font size for the section title */
+  font-size: 24px;
   margin-bottom: 20px;
-  text-transform: uppercase; /* Uppercase text for the title */
-  color: #ffa500; /* Orange color for the title */
+  text-transform: uppercase;
+  color: #ffa500;
 }
 
-p {
+.about-me-paragraphs {
+  flex: 2;
+  margin-right: 20px; /* Add right margin to create space between text and image */
+}
+
+.about-me-paragraph {
   font-size: 16px;
-  text-align: justify; /* Justify text for a cleaner look */
-  margin-bottom: 30px; /* Increased margin spacing between paragraphs */
-  line-height: 1.6; /* Adjust line height for better readability */
+  text-align: justify;
+  margin-bottom: 30px;
+  line-height: 1.6;
 }
 
-strong {
-  font-weight: bold;
-  color: #ffa500; /* Dark Green color for strong elements */
+.about-me-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
 }
 
+.about-me-image {
+  flex: 1;
+  text-align: center;
+  max-width: 30%; /* Adjust the max-width as needed to prevent overlap */
+}
