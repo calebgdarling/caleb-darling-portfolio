@@ -11,6 +11,9 @@ function Navbar() {
         <li>
           <Link to="/skills">Skills</Link> {/* Use Link to navigate to Skills */}
         </li>
+        <li>
+          <Link to="/projects">Projects</Link> {/* Use Link to navigate to Skills */}
+        </li>
         {/* Add more navigation links as needed */}
       </ul>
     </nav>
