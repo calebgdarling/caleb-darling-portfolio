@@ -1,48 +1,28 @@
-/* Footer styling */
+/* Footer.css */
+
 .footer {
-    background-color: #222;
-    color: #fff;
-    padding: 20px 0;
-    text-align: center;
-  }
-  
-  /* Footer content container */
-  .footer-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
-  }
-  
-  /* Footer logo */
-  .footer-logo a {
-    text-decoration: none;
-    font-size: 24px;
-    color: #fff;
-  }
-  
-  /* Footer navigation links */
-  .footer-links ul {
-    list-style: none;
-    padding: 0;
-  }
-  
-  .footer-links ul li {
-    display: inline;
-    margin-right: 20px;
-  }
-  
-  .footer-links ul li a {
-    text-decoration: none;
-    color: #fff;
-    font-size: 16px;
-  }
-  
-  /* Footer information */
-  .footer-info p {
-    font-size: 14px;
-    margin-top: 10px;
-  }
-  
+  background-color: #556B2F; /* Dark Green Background Color */
+  color: #fff; /* Text Color */
+  padding: 10px 0; /* Reduced padding for a smaller footer */
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-logo-img {
+  max-width: 100%; /* Ensure the logo does not exceed the width of its container */
+  max-height: 80px; /* Set a maximum height for the logo */
+}
+
+.footer-info {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.footer-info p {
+  margin: 0;
+}

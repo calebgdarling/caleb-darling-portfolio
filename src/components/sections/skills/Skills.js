@@ -1,15 +1,15 @@
 import React from 'react';
-import './Skills.css'; // Import your CSS file
+import './Skills.css';
 
 function Skills() {
   const skillsList = [
     'JavaScript',
+    'TypeScript',
     'React',
     'Node.js',
     'HTML/CSS',
     'REST APIs',
-    'Git',
-    // Add more skills as needed
+    'Git'
   ];
 
   return (

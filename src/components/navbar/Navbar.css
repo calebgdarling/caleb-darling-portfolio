@@ -1,45 +1,29 @@
-/* Navbar styling */
 .navbar {
-    background-color: #222;
-    color: #fff;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 20px;
-  }
-  
-  /* Logo styling */
-  .logo a {
-    text-decoration: none;
-    font-size: 24px;
-    color: #fff;
-  }
-  
-  /* Navigation links styling */
-  .nav-links {
-    list-style: none;
-    display: flex;
-  }
-  
-  .nav-links li {
-    margin-right: 20px;
-  }
-  
-  .nav-links a {
-    text-decoration: none;
-    color: #fff;
-    font-size: 18px;
-  }
-  
-  /* Responsive design (adjust as needed) */
-  @media (max-width: 768px) {
-    .nav-links {
-      flex-direction: column;
-    }
-  
-    .nav-links li {
-      margin-bottom: 10px;
-      margin-right: 0;
-    }
-  }
-  
+  background-color: #556B2F; /* Olive Green Background Color */
+  color: #fff; /* Text Color */
+  padding: 10px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.navbar ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar li {
+  margin: 0 20px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: bold;
+  font-size: 18px;
+  transition: color 0.3s;
+}
+
+.navbar a:hover {
+  color: #FFA500; /* Change color on hover (e.g., orange) */
+}

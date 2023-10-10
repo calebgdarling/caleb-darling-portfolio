@@ -1,0 +1,20 @@
+/* Header.css */
+
+.header {
+    background-color: #556B2F; /* Dark Green Background Color */
+    color: #fff; /* Text Color */
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  .header h1 {
+    font-size: 36px; /* Larger font size for the name */
+    margin-bottom: 10px; /* Reduced margin at the bottom of the name */
+  }
+  
+  .header p {
+    font-size: 20px; /* Font size for the job title */
+    font-weight: bold; /* Bold job title */
+    margin-top: 0; /* Remove default top margin for the job title */
+  }
+  

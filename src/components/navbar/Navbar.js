@@ -1,20 +1,20 @@
 import React from 'react';
-import { Link } from 'react-router-dom'; // Import Link from react-router-dom
+import { Link } from 'react-router-dom';
+import './Navbar.css';
 
 function Navbar() {
   return (
     <nav className="navbar">
       <ul>
         <li>
-          <Link to="/">Home</Link> {/* Use Link to navigate to Home */}
+          <Link to="/">Home</Link>
         </li>
         <li>
-          <Link to="/skills">Skills</Link> {/* Use Link to navigate to Skills */}
+          <Link to="/skills">Skills</Link>
         </li>
         <li>
-          <Link to="/projects">Projects</Link> {/* Use Link to navigate to Skills */}
+          <Link to="/projects">Projects</Link>
         </li>
-        {/* Add more navigation links as needed */}
       </ul>
     </nav>
   );
