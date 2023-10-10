@@ -1,13 +1,18 @@
-import Contact from "./components/Contact";
-import Home from "./components/Home";
+import React from 'react';
+import Home from './components/home/Home';
+import Navbar from './components/navbar/Navbar';
+import Footer from './components/footer/Footer';
+import ContactInfo from './components/sections/contact-info/ContactInfo';
 
 function App() {
   return (
-    <div>
+    <div className="App">
+      <Navbar />
       <Home />
-      <Contact />
+      <ContactInfo />
+      <Footer />
     </div>
   );
-}
+};
 
 export default App;

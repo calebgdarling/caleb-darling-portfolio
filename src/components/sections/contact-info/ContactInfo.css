@@ -1,0 +1,43 @@
+/* ContactInfo styling */
+.contact-info {
+  background-color: #f5f5f5;
+  padding: 50px 0;
+  text-align: center;
+}
+
+/* ContactInfo container */
+.contact-info-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.contact-info h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+/* ContactInfo details */
+.info {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.info p {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.info strong {
+  font-weight: bold;
+}
+
+/* Responsive design (adjust as needed) */
+@media (max-width: 768px) {
+  .info p {
+    font-size: 16px;
+  }
+}
