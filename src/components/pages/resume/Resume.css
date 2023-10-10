@@ -1,0 +1,83 @@
+/* Resume.css */
+
+.resume-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin: 20px 0;
+    color: #333;
+  }
+  
+  .experience-item, .education-item, .certification-item {
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .company img {
+    max-width: 60px; /* Adjust the max width as needed */
+    margin-right: 20px;
+    vertical-align: middle;
+  }
+  
+  .company h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .company p {
+    font-size: 16px;
+    margin-bottom: 5px;
+    color: #555;
+  }
+  
+  .responsibilities {
+    list-style: disc;
+    margin-left: 20px;
+  }
+  
+  .education-item, .certification-item {
+    display: flex;
+    flex-direction: column; /* Stack h3 and p vertically */
+    align-items: flex-start; /* Align text to the left */
+  }
+  
+  .education-item h3, .certification-item h3 {
+    font-size: 20px;
+    margin: 0;
+    color: #333;
+  }
+  
+  .education-item p, .certification-item p {
+    font-size: 16px;
+    color: #555;
+    margin-top: 10px; /* Add space between h3 and p */
+  }
+
+  .education-item img, .certification-item img {
+    max-width: 60px;
+    margin-right: 20px;
+    vertical-align: middle;
+  }
+  
+  .show-credential-link {
+    font-size: 16px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #0077B5; /* LinkedIn blue color */
+    cursor: pointer;
+  }
+  
+  .show-credential-link:hover {
+    text-decoration: underline;
+  }
+  

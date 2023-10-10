@@ -14,7 +14,7 @@ function ContactInfo() {
             <strong>Phone:</strong> +1 (763) 568-5101
           </div>
           <div className="info-item">
-            <strong>Address:</strong> 7104 Brockton Lane, Maple Grove, Minnesota
+            <strong>Location:</strong> Greater Minneapolis-St. Paul Area
           </div>
         </div>
       </div>
