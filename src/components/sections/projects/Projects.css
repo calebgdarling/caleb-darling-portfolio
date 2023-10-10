@@ -1,0 +1,74 @@
+.project {
+    display: flex;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px; /* Rounded edges */
+    overflow: hidden; /* Ensure content doesn't overflow rounded corners */
+    margin: 20px; /* Added margin for space */
+  }
+  
+  .project-details {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .project-screenshot {
+    display: flex;
+    align-items: center; /* Center vertically */
+    justify-content: center;
+  }
+
+  .project-screenshot img {
+    width: 600px; /* Adjust the width to your preferred size */
+    height: auto;
+    align-items: center;
+    display: block; /* Center images within their containers */
+    margin: 0 auto; /* Center horizontally */
+    border: 1px solid #556B2F;
+    border-radius: 5px;
+  }
+  
+  .project h3 {
+    font-size: 1.5rem;
+    margin: 0;
+  }
+  
+  .project-links a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .project-links a:hover {
+    text-decoration: underline;
+  }
+  
+  .project ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .project ul li {
+    margin-bottom: 5px;
+  }
+  
+  .project-details p {
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+  
+  .project-details h4 {
+    font-size: 1.2rem;
+    margin-top: 15px;
+    margin-bottom: 5px;
+  }
+  
+  /* Media query for responsive design */
+  @media (max-width: 768px) {
+    .project {
+      flex-direction: column;
+    }
+  }
+  
