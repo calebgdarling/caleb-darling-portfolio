@@ -10,29 +10,23 @@ const Project = () => {
       {/* Project 1 */}
       <div className="project">
         <div className="project-details">
-          <h3>Project 1: E-Commerce Website</h3>
-          <p>An online store for selling various products. Built with React, Redux, Node.js, and MongoDB.</p>
+          <h3>Project 1: Weather App</h3>
+          <p>An online Weather App that allows you to search by city and find details on the current weather conditions. Utilizes the API from OpenWeather.</p>
   
           <div className="project-links">
-            <a href="https://www.example.com/ecommerce-demo" target="_blank" rel="noopener noreferrer">Live Demo</a>
-            <a href="https://github.com/yourusername/ecommerce-repo" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="https://calebgdarling.github.io/weather/" target="_blank" rel="noopener noreferrer">Live Website</a>
+            <a href="https://github.com/calebgdarling/weather" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
           </div>
   
           <h4>Technical Details</h4>
           <ul>
-            <li>Frontend: React, Redux</li>
-            <li>Backend: Node.js, Express</li>
-            <li>Database: MongoDB</li>
-            <li>Deployment: Heroku</li>
+            <li>Skills Used: HTML/CSS, Javascript, Fetch API, Handling User Input, JSON parsing</li>
+            <li>Deployment: Github Pages</li>
           </ul>
   
-          <p>Your role: Lead Developer</p>
-  
           <h4>Challenges and Solutions</h4>
-          <p>Implemented secure user authentication, integrated payment gateways, and optimized for performance.</p>
+          <p>It took some time to read/understand the documentation for the OpenWeather API and then integrate that into my website. My biggest challenge was taking in a City name and geocoding it into Latitude and Longitude for the API to read. In the end everything worked as planned and I have a working Weather App!</p>
   
-          <h4>Results and Outcomes</h4>
-          <p>Increased sales by 40% within the first quarter. Received positive user feedback on the user-friendly interface.</p>
         </div>
   
         <div className="project-screenshot">
