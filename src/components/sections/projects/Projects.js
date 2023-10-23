@@ -38,27 +38,24 @@ const Project = () => {
       <div className="project">
         <div className="project-details">
           <h3>Project 2: Task Management App</h3>
-          <p>A web application for managing tasks and to-do lists. Built with Vue.js and Firebase.</p>
+          <p>A web application for managing tasks and to-do lists, built with React.js for a seamless user experience.</p>
   
           <div className="project-links">
-            <a href="https://www.example.com/task-app-demo" target="_blank" rel="noopener noreferrer">Live Demo</a>
-            <a href="https://github.com/yourusername/task-app-repo" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="https://calebgdarling.github.io/task-mgmt-app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+            <a href="https://github.com/calebgdarling/task-mgmt-app" target="_blank" rel="noopener noreferrer">GitHub</a>
           </div>
   
           <h4>Technical Details</h4>
           <ul>
-            <li>Frontend: Vue.js, Vuex</li>
-            <li>Backend: Firebase</li>
+            <li>Skills Used: React.js, State Management, User Interface Design</li>
+            <li>Deployment: Hosting Platform (e.g., Netlify, Vercel)</li>
           </ul>
   
           <p>Your role: Sole Developer</p>
   
           <h4>Challenges and Solutions</h4>
-          <p>Implemented real-time synchronization across devices and optimized database queries for fast performance.</p>
-  
-          <h4>Results and Outcomes</h4>
-          <p>Received 5,000+ users in the first month. Positive user reviews on the app stores.</p>
-        </div>
+          <p>One of the key challenges was implementing features such as adding, editing, and deleting tasks while maintaining a user-friendly interface. I also worked on real-time updates and task prioritization to enhance the user's task management experience. Through diligent design and coding, I successfully created a functional and efficient To-Do App.</p>
+          </div>
   
         <div className="project-screenshot">
           <img src={ProjectImg2} alt="Task Management App Screenshot" />
