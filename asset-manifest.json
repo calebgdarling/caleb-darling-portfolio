@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/caleb-darling-portfolio/static/css/main.ecb95d3a.css",
-    "main.js": "/caleb-darling-portfolio/static/js/main.c846593f.js",
+    "main.js": "/caleb-darling-portfolio/static/js/main.898655d8.js",
     "static/media/gray-topo.png": "/caleb-darling-portfolio/static/media/gray-topo.d8820dbcf2d2493aac44.png",
     "static/media/portfolio-screenshot.png": "/caleb-darling-portfolio/static/media/portfolio-screenshot.26d221b664dbfb71690a.png",
     "static/media/nodejs-icon.png": "/caleb-darling-portfolio/static/media/nodejs-icon.14cdee7fa498e8a7c7d3.png",
     "static/media/profile-picture.png": "/caleb-darling-portfolio/static/media/profile-picture.00ca37a36ccebc609d22.png",
-    "static/media/task-mgmt-app.png": "/caleb-darling-portfolio/static/media/task-mgmt-app.b6b1dbaf6b515d2d20d3.png",
+    "static/media/task-mgmt-app.png": "/caleb-darling-portfolio/static/media/task-mgmt-app.bb115f82cebd6af40585.png",
     "static/media/project-screenshot1.png": "/caleb-darling-portfolio/static/media/project-screenshot1.cc09f3cdc1c6d783e059.png",
     "static/media/brown-aussie copy.jpg": "/caleb-darling-portfolio/static/media/brown-aussie copy.3e3e5b1ae075f82129a9.jpg",
     "static/media/polaris-logo.png": "/caleb-darling-portfolio/static/media/polaris-logo.bb221410793e579b24a6.png",
@@ -16,10 +16,10 @@
     "static/media/unw-logo.png": "/caleb-darling-portfolio/static/media/unw-logo.25e48e0925d37dcf1e6b.png",
     "index.html": "/caleb-darling-portfolio/index.html",
     "main.ecb95d3a.css.map": "/caleb-darling-portfolio/static/css/main.ecb95d3a.css.map",
-    "main.c846593f.js.map": "/caleb-darling-portfolio/static/js/main.c846593f.js.map"
+    "main.898655d8.js.map": "/caleb-darling-portfolio/static/js/main.898655d8.js.map"
   },
   "entrypoints": [
     "static/css/main.ecb95d3a.css",
-    "static/js/main.c846593f.js"
+    "static/js/main.898655d8.js"
   ]
 }
